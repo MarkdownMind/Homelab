@@ -19,7 +19,7 @@ Welcome to my homelab documentation. This environment supports my work in AI dev
 | Supermicro (Proxmox)   | pfSense firewall, internet gateway     |
 | Dell 1Gb Switch         | Layer 2 distribution to WiFi + Desktop |
 | TP-Link Deco Mesh      | Wireless access for home + IoT devices |
-| Mellanox SX6036        | 10GbE backbone switch                  |
+| Mellanox SX6036        | 10GbE/40gbe backbone switch                  |
 | Dell R720XD #1         | JBOD host (2x 60-bay, ~2PB total)      |
 | Dell R720XD #2         | Media server, backups, VM host         |
 | Supermicro (8x GPU)    | AI/ML workloads, training environment   |
