@@ -1,5 +1,4 @@
-Network Diagram
-
+```
                                [Internet]
                                    │
                             [pfSense + Proxmox]
@@ -19,3 +18,4 @@ Network Diagram
                  │              │              │
       [Dell 720XD #1]   [Dell 720XD #2]   [Supermicro AI Server]
    (2PB JBOD, .10)   (VMs, Media, .11)   (8x GPUs, .12 Compute)
+```
