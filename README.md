@@ -1,7 +1,3 @@
-Welcome to my homelab documentation. This environment supports my work in AI development, infrastructure engineering, and systems integration — fully built from enterprise hardware to simulate real-world scenarios.
-
----
-
 ## 🖥️ Core Objectives
 
 - Test and develop hybrid infrastructure solutions
@@ -16,7 +12,7 @@ Welcome to my homelab documentation. This environment supports my work in AI dev
 
 | Device                  | Role                                   |
 |------------------------|----------------------------------------|
-| Supermicro (Proxmox)   | pfSense firewall, internet gateway     |
+| Supermicro (Proxmox)   | pfSense firewall, internet gateway, nginx     |
 | Dell 1Gb Switch         | Layer 2 distribution to WiFi + Desktop |
 | TP-Link Deco Mesh      | Wireless access for home + IoT devices |
 | Mellanox SX6036        | 10GbE/40gbe backbone switch                  |
